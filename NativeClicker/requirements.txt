@@ -1,4 +1,8 @@
-selenium
-colorama
-re
+Selenium
 tqdm
+colorama
+BeautifulSoup
+multiprocessing
+numpy
+argparse
+re

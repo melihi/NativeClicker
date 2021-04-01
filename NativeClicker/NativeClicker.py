@@ -2,13 +2,11 @@ import argparse
 import NativeClickerBanner
 import colorama
 from colorama import Fore, Back
-import threading
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium import webdriver
 import random
 import time
-from fake_useragent import UserAgent
 import re
 from bs4 import BeautifulSoup
 import sys
