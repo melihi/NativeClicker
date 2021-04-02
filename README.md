@@ -59,7 +59,7 @@ NativeClicker's success rate directly depends to the proxies qualities .
 
 
 ### DEMO VIDEO
-[![NativeClicker](https://i.ytimg.com/vi/HU9tFfUl3wI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8xu_ibKPiA5v2Z8O0Z0bOOAKjXQ)](https://www.youtube.com/watch?v=Nnj5OxXhysU "NativeClicker")
+[![NativeClicker](https://i.ytimg.com/vi/HU9tFfUl3wI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8xu_ibKPiA5v2Z8O0Z0bOOAKjXQ)](https://youtu.be/HU9tFfUl3wI "NativeClicker")
 
 
 
