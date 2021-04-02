@@ -31,15 +31,6 @@ li = Fore.YELLOW + "[~] " + Fore.RESET
 #print banner
 test = NativeClickerBanner
 
-
-
-'''with webdriver.Firefox() as driver:
-    # Open URL
-    driver.get("https://google.com")
-    time.sleep(15)'''
-
-
-
 country = {"ALL":"ALL" ,"AR":"Argentina" , "AU":"Australia" ,"BD":"Bangladesh" ,"BR":"Brazil" ,"KH":"Cambodia","CA":"Canada","CL":"Chile", "CO":"Colombia" ,"CZ":"Czech", "EU":"Europe", "FI":"Finland", "FR":"France ","DE":"Germany","GR":"Greece", "HK":"Hong Kong", "IN":"India", "ID":"Indonesia", "IR":"Iran", "IL":"Israel","IT":"Italy","JP":"Japan" ,"KZ":"Kazakhstan", "KE":"Kenya", "KR":"Korea" ,"MW":"Malawi","MY":"Malaysia","MX":"Mexico" ,"NZ":"New Zealand","PK":"Pakistan","PH":"Philippines","PL":"Poland","PT":"Portugal","RO":"Romania", "RU":"Russia","ES":"Spain", "CH":"Switzerland", "TW":"Taiwan", "TZ":"Tanzania", "TH":"Thailand", "TN":"Tunisia","TR":"Turkey","AE":"UAE","UA":"Ukraine","GB":"United Kingdom", "US":"United States", "VE":"Venezuela","VN":"Viet Nam"}
 
 colorama.init(autoreset=True)
