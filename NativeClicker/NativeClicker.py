@@ -403,8 +403,8 @@ def click_Engine(*gen):
 
 def engine_Manager():
       
-    #if args.stay:
-        #args.thread = args.count
+    if args.stay:
+        args.thread = args.count
     global processes
     processes = []
     za=0
