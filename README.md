@@ -26,7 +26,7 @@ After parsing process creates selenium browser and connects to target .
    sudo pacman -S selenium
    ```
 1. After installing requirements ,
-3. Clone the repo
+2. Clone the repo
    ```sh
    git clone https://github.com/melihi/NativeClicker.git
    ```
