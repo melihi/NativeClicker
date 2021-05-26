@@ -9,7 +9,7 @@ NativeClicker automatized web traffic generator . NativeClick parse proxies from
 - [github.com/ShiftyTR](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt?raw=true)
 - [github.com/hookzof](https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt)
 
-After parsing process creates selenium browser and connects to target .
+After parsing process creates selenium browser and connect to target .
 
 ### Dependencies 
 
